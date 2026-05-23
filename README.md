@@ -260,7 +260,7 @@ Elastic IP:         Elastic IP:      Elastic IP:
 
 ## 📸 Screenshots
 
-All screenshots are located in the [`screenshots/`](./screenshots/) folder.
+All screenshots are located in the [`screenshots/`](./assets/) folder.
 
 | # | Description | File |
 |---|---|---|
