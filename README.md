@@ -305,5 +305,3 @@ This lab clearly demonstrates the difference between a **dynamic public IP** and
 ---
 
 > 📝 **Author Note:** This project was completed as a hands-on AWS networking lab to understand public IP behavior and the practical use of Elastic IP addresses in cloud infrastructure.
-#   e l a s t i c - i p - l a b  
- 
